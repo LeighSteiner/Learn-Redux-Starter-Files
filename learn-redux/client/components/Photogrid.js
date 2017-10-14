@@ -2,13 +2,13 @@ import React from 'react';
 import { Link } from 'react-router';
 
 const Photogrid = React.createClass({
-  render() {
+  render() { 
     return (
       <div className="photo-grid">
-        I'm the photogrid
+        I'm the photogrid 
       </div>
     )
   }
 })
 
-export default Photogrid;
+export default Photogrid; 
